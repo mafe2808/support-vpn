@@ -1,2 +1,2 @@
 # support-vpn
-Desafio LangPage da SuportVPN, HTML, CSS
+Desafio LangPage da SuportVPN feita com HTML e CSS
